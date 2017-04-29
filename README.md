@@ -9,6 +9,10 @@ cc65
 
 http://cc65.github.io/cc65
 
+## Environment
+
+export CC65_HOME={cc65 home dir}
+
 ## Build
 
 make all
